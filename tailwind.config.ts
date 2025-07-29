@@ -53,7 +53,6 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
-				// Camping-specific colors
 				camping: {
 					orange: 'hsl(var(--camping-orange))',
 					green: 'hsl(var(--camping-green))',
